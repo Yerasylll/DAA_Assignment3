@@ -17,11 +17,11 @@ public class Metrics {
         return executionTimeMs;
     }
 
-    public void setOperationsCount(int operationsCount) {
-        this.operationsCount = operationsCount;
+    public void intOperations() {
+        operationsCount++;
     }
 
-    public void setExecutionTimeMs(long executionTimeMs) {
-        this.executionTimeMs = executionTimeMs;
+    public void setExecutionTimeMs(long time) {
+        this.executionTimeMs = time;
     }
 }
