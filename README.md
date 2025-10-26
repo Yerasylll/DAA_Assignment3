@@ -1,8 +1,8 @@
 # Assignment 3: Optimization of a City Transportation Network
 ## Minimum Spanning Tree - Analytical Report
 
-**Course:** Data Structures and Algorithms  
-**Assignment:** MST Implementation and Analysis  
+**Student:** Yerassyl Alimbek
+**Group:** SE-2422
 **Date:** October 26, 2025
 
 ---
